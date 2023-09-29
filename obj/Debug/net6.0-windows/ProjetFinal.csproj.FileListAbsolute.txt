@@ -1,0 +1,74 @@
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.exe
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.deps.json
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.runtimeconfig.json
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.dll
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.pdb
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.csproj.AssemblyReference.cache
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AjoutEtudiant.resources
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AjoutProgramme.resources
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AuthentificationForm.resources
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.ListeEtudiants.resources
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.ListeProgrammes.resources
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.MainForm.resources
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.csproj.GenerateResource.cache
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AssemblyInfoInputs.cache
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AssemblyInfo.cs
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.csproj.CoreCompileInputs.cache
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.dll
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\refint\ProjetFinal.dll
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.pdb
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.genruntimeconfig.cache
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ref\ProjetFinal.dll
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.SupprimerEtudiant.resources
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.SupprimerProgramme.resources
+D:\AEC\Session_3\Cours CSharp\ProjetFinal\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.Properties.Resources.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.exe
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.deps.json
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.runtimeconfig.json
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.dll
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.pdb
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.csproj.AssemblyReference.cache
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AjoutEtudiant.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AjoutProgramme.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AuthentificationForm.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.ListeEtudiants.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.ListeProgrammes.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.MainForm.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.Properties.Resources.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.SupprimerEtudiant.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.SupprimerProgramme.resources
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.csproj.GenerateResource.cache
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AssemblyInfoInputs.cache
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AssemblyInfo.cs
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.dll
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\refint\ProjetFinal.dll
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.pdb
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.genruntimeconfig.cache
+C:\Users\Bmadj\OneDrive\Desktop\ProjetFinal\obj\Debug\net6.0-windows\ref\ProjetFinal.dll
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.exe
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.deps.json
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.runtimeconfig.json
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.dll
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\bin\Debug\net6.0-windows\ProjetFinal.pdb
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AjoutEtudiant.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AjoutProgramme.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AuthentificationForm.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.ListeEtudiants.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.ListeProgrammes.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.MainForm.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.Properties.Resources.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.SupprimerEtudiant.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.SupprimerProgramme.resources
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.csproj.GenerateResource.cache
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AssemblyInfoInputs.cache
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.AssemblyInfo.cs
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.dll
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\refint\ProjetFinal.dll
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.pdb
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ProjetFinal.genruntimeconfig.cache
+C:\Users\Bmadj\source\repos\C #\ProjetFinal\obj\Debug\net6.0-windows\ref\ProjetFinal.dll
